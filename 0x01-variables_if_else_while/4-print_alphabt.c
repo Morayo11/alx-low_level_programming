@@ -6,7 +6,6 @@
  * You can only use `putchar` to print to the console.
  * Return: 0
  */
-
 int main(void)
 {
 	char c = 'a';
